@@ -1,4 +1,4 @@
-# Arduino Codes (Jason)
+# Arduino Codes
 
 ## LCD Menu and Stepper Control (IR Receiver)
 
